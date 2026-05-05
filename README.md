@@ -52,4 +52,20 @@ The Power BI dashboard provides a dynamic way to explore the dataset:
 2. Install dependencies:  
    `pip install pandas numpy matplotlib seaborn`  
 3. Run the Jupyter Notebook  
-4. Open the Power BI `.pbix` file to explore the dashboard  
+4. Open the Power BI `.pbix` file to explore the dashboard
+
+## 📊 Dashboard Preview
+
+### 🔍 Analysis View
+
+![Analysis Dashboard](images/analysis.png)
+
+*This dashboard shows rating trends, vote correlation, and release patterns, helping identify factors influencing movie performance.*
+
+---
+
+### 📈 Exploration View
+
+![Exploration Dashboard](images/exploration.png)
+
+*This view highlights top movies, genres, and languages, enabling quick insights into audience preferences.*
