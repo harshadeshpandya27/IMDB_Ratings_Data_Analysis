@@ -58,7 +58,7 @@ The Power BI dashboard provides a dynamic way to explore the dataset:
 
 ### 🔍 Analysis View
 
-![Analysis Dashboard](images/Analysis.png)
+![Analysis](Analysis.png)
 
 *This dashboard shows rating trends, vote correlation, and release patterns, helping identify factors influencing movie performance.*
 
@@ -66,6 +66,6 @@ The Power BI dashboard provides a dynamic way to explore the dataset:
 
 ### 📈 Exploration View
 
-![Exploration Dashboard](images/Exploration.png)
+![Exploration](Exploration.png)
 
 *This view highlights top movies, genres, and languages, enabling quick insights into audience preferences.*
